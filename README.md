@@ -17,4 +17,6 @@ Ejecutar el proyecto angular en una terminar abierta desde Visual Studio Code, c
 
 Pido disculpas porque cometí un error, en donde creí haber revisado el PDF completo y por una confusión no me di cuenta a tiempo de la ultima parte de las instrucciones y por esto el proyecto difiere en algunos detalles con el requerimiento. Esperando que esto no sea un impedimento para continuar con el proceso, quedo atento y a su disposición para cualquier tema adicional, la exposición o presentación del proyecto o la continuidad del proceso.
 
+Nota: github no me permitió subir el Front ya que pesaba demaciado, por lo tanto lo subí a Drive y aquí comparto la URL: https://drive.google.com/file/d/1ZYUNPOTjJtrWLqMTlfVMOckYSLurkJ1O/view?usp=sharing
+
 Muchas gracias!
